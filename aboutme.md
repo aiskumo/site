@@ -8,4 +8,4 @@ I'm Aiswarya.
 
 ### My story
 
-I love learning. I'm currently learning [Go](https://golang.org/)
+I love learning. I'm currently learning [Go](https://golang.org/).
